@@ -1,0 +1,26 @@
+{
+ "system": "Exact quote match",
+ "version": "0.1",
+ "submitter": "benchmark maintainers",
+ "track": "baseline",
+ "run_date": "2026-11-25",
+ "dataset": "seed-v0",
+ "publisher_entry": false,
+ "how_run": "python3 baselines/quote_match.py exact > predictions.jsonl (offline: citation URLs are looked up in the snapshot cache)",
+ "description": "Normalised exact substring match of the quote in the cited source; support 'supports' when found, 'unrelated' otherwise.",
+ "raw_outputs": "predictions.jsonl is the complete output",
+ "reported": {
+  "reference_exists": {
+   "accuracy": 100.0,
+   "macro_f1": 100.0
+  },
+  "quote": {
+   "accuracy": 75.0,
+   "macro_f1": 55.56
+  },
+  "support": {
+   "accuracy": 28.57,
+   "macro_f1": 18.33
+  }
+ }
+}

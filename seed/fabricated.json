@@ -1,0 +1,590 @@
+[
+ {
+  "title": "Eiffel measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Eiffel%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Eiffel: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99771234",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99771234 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Golden Gate restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Golden_Gate_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Golden%20Gate%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Everest record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99921534",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99921534 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Everest Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Everest_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Everest%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Barrier Reef figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98019945",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98019945 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second Panama survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_Panama_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20Panama%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Hubble in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98660713",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98660713 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "space station measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/space_station_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=space%20station%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Apollo: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98949306",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98949306 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Voyager restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Voyager_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Voyager%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Jupiter record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99175996",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99175996 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Jupiter Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jupiter_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Jupiter%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Moon figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98513675",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98513675 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second Maxwell survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_Maxwell_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20Maxwell%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "penicillin in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99975289",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99975289 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Nobel measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Nobel_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Nobel%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "smallpox: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98077564",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98077564 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of smallpox restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_smallpox_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20smallpox%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Titanic record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99092912",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99092912 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Great Wall Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Great_Wall_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Great%20Wall%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Taj Mahal figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98831966",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98831966 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second Statue of Liberty survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_Statue_of_Liberty_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20Statue%20of%20Liberty%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Burj Khalifa in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98380759",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98380759 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Channel Tunnel measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Channel_Tunnel_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Channel%20Tunnel%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Suez: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99402819",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99402819 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Suez restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Suez_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Suez%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Baikal record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99006188",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99006188 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Kilimanjaro Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kilimanjaro_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Kilimanjaro%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Antarctica figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99603826",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99603826 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second Nile survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_Nile_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20Nile%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Iceland in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98258878",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98258878 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Gutenberg measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gutenberg_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Gutenberg%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Berners-Lee: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98623531",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98623531 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Linux restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Linux_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Linux%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Python record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99975342",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99975342 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Hadron Collider Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hadron_Collider_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Hadron%20Collider%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Mendeleev figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99309622",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99309622 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second blue whale survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_blue_whale_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20blue%20whale%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "elephant in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98949049",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98949049 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "tardigrade measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/tardigrade_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=tardigrade%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "tardigrade: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99767417",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99767417 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Hoover Dam restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Hoover_Dam_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Hoover%20Dam%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Opera House record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99575742",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99575742 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Brooklyn Bridge Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Brooklyn%20Bridge%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Halley figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.98113364",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.98113364 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second Krakatoa survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_Krakatoa_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20Krakatoa%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Chernobyl in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99826741",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99826741 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Wright measurement dispute of 1911",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Wright_measurement_dispute_of_1911",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Wright%20measurement%20dispute%20of%201911",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "honey bee: a quantitative review of published figures",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99282244",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99282244 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "List of Representative restoration contracts (1952)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Representative_restoration_contracts_%281952%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=List%20of%20Representative%20restoration%20contracts%20%281952%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Revisiting the Senator record: an archival audit",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99892059",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99892059 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Senate Commission report on visitor numbers",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Senate_Commission_report_on_visitor_numbers",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Senate%20Commission%20report%20on%20visitor%20numbers",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Why the standard Gettysburg figures are wrong",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99785366",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99785366 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ },
+ {
+  "title": "Second bondman survey expedition (1934)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Second_bondman_survey_expedition_%281934%29",
+  "check": "MediaWiki API query for the title returns 'missing': https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=Second%20bondman%20survey%20expedition%20%281934%29",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false
+  }
+ },
+ {
+  "title": "Farewell in numbers, 1850 to 2000",
+  "publisher": "Zenodo",
+  "url": "https://doi.org/10.5281/zenodo.99330771",
+  "check": "DOI handle lookup https://doi.org/api/handles/10.5281/zenodo.99330771 returns responseCode 100 (handle not found)",
+  "checked": {
+   "date": "2026-11-25",
+   "exists": false,
+   "http_status": 404
+  }
+ }
+]
