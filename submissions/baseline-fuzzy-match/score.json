@@ -1,0 +1,87 @@
+{
+ "items": 448,
+ "tasks": {
+  "reference_exists": {
+   "n": 448,
+   "accuracy": 100.0,
+   "accuracy_95ci": [
+    100.0,
+    100.0
+   ],
+   "macro_f1": 100.0,
+   "answer_rate": 100.0,
+   "accuracy_by_kind": {
+    "claim_number_changed": 100.0,
+    "fabricated_reference": 100.0,
+    "faithful": 100.0,
+    "partial_support": 100.0,
+    "quote_number_changed": 100.0,
+    "quote_word_dropped": 100.0,
+    "unrelated_claim": 100.0,
+    "wrong_source": 100.0
+   },
+   "confusion": {
+    "False->False": 56,
+    "True->True": 392
+   }
+  },
+  "quote": {
+   "n": 448,
+   "accuracy": 99.55,
+   "accuracy_95ci": [
+    98.88,
+    100.0
+   ],
+   "macro_f1": 99.4,
+   "answer_rate": 100.0,
+   "accuracy_by_kind": {
+    "claim_number_changed": 100.0,
+    "fabricated_reference": 100.0,
+    "faithful": 100.0,
+    "partial_support": 100.0,
+    "quote_number_changed": 100.0,
+    "quote_word_dropped": 96.43,
+    "unrelated_claim": 100.0,
+    "wrong_source": 100.0
+   },
+   "confusion": {
+    "altered->altered": 110,
+    "altered->fabricated": 2,
+    "exact->exact": 224,
+    "fabricated->fabricated": 112
+   }
+  },
+  "support": {
+   "n": 392,
+   "accuracy": 67.6,
+   "accuracy_95ci": [
+    62.76,
+    72.19
+   ],
+   "macro_f1": 65.01,
+   "answer_rate": 100.0,
+   "accuracy_by_kind": {
+    "claim_number_changed": 100.0,
+    "faithful": 62.5,
+    "partial_support": 51.79,
+    "quote_number_changed": 100.0,
+    "quote_word_dropped": 58.93,
+    "unrelated_claim": 0.0,
+    "wrong_source": 100.0
+   },
+   "confusion": {
+    "contradicts->contradicts": 112,
+    "partially_supports->contradicts": 21,
+    "partially_supports->partially_supports": 29,
+    "partially_supports->supports": 1,
+    "partially_supports->unrelated": 5,
+    "supports->contradicts": 2,
+    "supports->partially_supports": 30,
+    "supports->supports": 68,
+    "supports->unrelated": 12,
+    "unrelated->contradicts": 56,
+    "unrelated->unrelated": 56
+   }
+  }
+ }
+}
